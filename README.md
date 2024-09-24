@@ -1,4 +1,4 @@
-![](https://github.com/julissaponte/julissaponte/blob/main/mybanner.png)
+![](https://github.com/julissaponte/julissaponte/blob/main/gifmock@3x.gif)
 
 ![](https://komarev.com/ghpvc/?username=julissaponte&style=for-the-badge)
 
