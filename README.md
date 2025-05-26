@@ -1,12 +1,10 @@
-![](https://github.com/julissaponte/julissaponte/blob/main/mybanner.gif)
-
 ![](https://komarev.com/ghpvc/?username=julissaponte&style=for-the-badge)
 
 ## About Me
 
-- I'm studying the last semester of my software engineering degree at the Peruvian University of Applied Sciences.
+- Bachelor of Software Engineering from the Peruvian University of Applied Sciences.
 
-- I currently work as a flutter developer, I've developed mobile and web apps.
+- I currently work as a Functional Analyst.
 
 ## Programming Languages and Tools
 
